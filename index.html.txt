@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+ <html>
+ <head>
+  <title>My Personal Introduction</title>
+    <style>
+body {
+background-color: 66758B;
+}
+h1 {
+color: 4A6052;
+}
+p {
+color: 84C745;
+}
+  </style>
+ </head>
+ <body>
+   <h1>My name is Noah Rumfallo </h1>
+
+   <p>I'm really into most stuff when it comes to tech. I play video games alot. I've recently been getting more into photography. </p>
+ </body>
+ </html>
